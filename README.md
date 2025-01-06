@@ -1,4 +1,4 @@
-# TO-DO-List using React/next.js
+# TO-DO-List using React/next.js and Tailwind CSS
 
 Step1: Check for node installation
 ```
